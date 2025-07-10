@@ -1,0 +1,301 @@
+EmployeeID,Age,Department,EducationField,JobRole,MonthlyIncome,JobSatisfaction,OverTime,YearsAtCompany,Attrition
+E0001,24,HR,Marketing,Engineer,10745.08,1,Yes,29,Yes
+E0002,50,Sales,Technical Degree,Engineer,10511.78,4,No,16,No
+E0003,56,IT,Technical Degree,Manager,3322.7,3,No,6,No
+E0004,39,HR,Marketing,HR Specialist,12951.04,3,No,26,Yes
+E0005,41,IT,Medical,Manager,9984.24,1,Yes,22,No
+E0006,44,Sales,Human Resources,HR Specialist,3278.27,1,Yes,29,Yes
+E0007,55,R&D,Life Sciences,Sales Executive,9728.07,4,Yes,0,No
+E0008,54,IT,Human Resources,Manager,8219.41,4,Yes,25,No
+E0009,31,IT,Human Resources,HR Specialist,5032.82,3,Yes,17,No
+E0010,54,Finance,Other,Sales Executive,2256.83,4,Yes,28,No
+E0011,54,Sales,Human Resources,Sales Executive,6752.37,1,Yes,18,Yes
+E0012,47,Sales,Medical,Manager,10058.06,2,No,8,No
+E0013,41,Sales,Technical Degree,Engineer,6280.63,3,No,8,No
+E0014,36,IT,Life Sciences,HR Specialist,5994.31,1,No,19,No
+E0015,58,HR,Other,Sales Executive,11764.58,1,Yes,9,No
+E0016,54,Sales,Technical Degree,Sales Executive,11862.12,3,Yes,27,Yes
+E0017,38,R&D,Marketing,HR Specialist,11343.96,4,Yes,22,Yes
+E0018,26,HR,Marketing,Manager,3315.37,3,No,17,No
+E0019,25,IT,Other,Manager,8710.16,1,Yes,8,No
+E0020,24,Sales,Life Sciences,Engineer,9251.38,4,Yes,18,No
+E0021,42,Finance,Other,Manager,11682.46,1,No,25,No
+E0022,24,Sales,Other,Sales Executive,13741.31,3,Yes,32,Yes
+E0023,42,Finance,Medical,HR Specialist,6797.51,3,No,4,No
+E0024,29,HR,Marketing,Manager,7572.63,4,Yes,5,No
+E0025,57,IT,Marketing,Sales Executive,11525.98,4,No,3,Yes
+E0026,50,HR,Technical Degree,Manager,10614.27,1,Yes,24,No
+E0027,55,Sales,Medical,Manager,9252.31,2,No,12,No
+E0028,43,Sales,Marketing,Manager,6551.82,1,Yes,27,No
+E0029,52,HR,Medical,Manager,4539.58,4,Yes,6,No
+E0030,49,Finance,Life Sciences,Engineer,4389.5,3,No,3,No
+E0031,56,HR,Medical,Sales Executive,3060.58,4,Yes,4,No
+E0032,55,Finance,Marketing,Engineer,3055.61,2,No,11,No
+E0033,34,IT,Human Resources,Manager,12995.38,2,No,16,No
+E0034,25,Finance,Other,Engineer,6987.75,1,Yes,39,No
+E0035,27,Sales,Life Sciences,Manager,2789.62,4,No,37,No
+E0036,22,Sales,Human Resources,HR Specialist,13653.53,3,Yes,26,No
+E0037,33,Finance,Life Sciences,Sales Executive,4902.52,2,Yes,23,Yes
+E0038,56,Sales,Marketing,Sales Executive,5485.62,1,Yes,36,Yes
+E0039,32,IT,Human Resources,Engineer,4528.47,4,Yes,11,No
+E0040,44,HR,Medical,Engineer,14577.51,3,Yes,18,Yes
+E0041,35,Finance,Human Resources,HR Specialist,3463.02,3,Yes,15,No
+E0042,40,R&D,Other,Sales Executive,11388.12,3,Yes,37,Yes
+E0043,58,Sales,Marketing,HR Specialist,14117.15,1,Yes,22,Yes
+E0044,37,Sales,Life Sciences,Manager,10684.02,3,Yes,33,No
+E0045,49,HR,Life Sciences,Manager,13163.45,4,No,33,No
+E0046,52,HR,Life Sciences,Sales Executive,5151.81,4,No,10,No
+E0047,28,Finance,Life Sciences,HR Specialist,10761.06,4,No,13,Yes
+E0048,48,R&D,Life Sciences,Engineer,11111.33,2,No,24,Yes
+E0049,38,IT,Medical,Manager,7958.32,1,Yes,3,No
+E0050,28,R&D,Other,HR Specialist,13317.09,1,No,36,No
+E0051,36,R&D,Medical,HR Specialist,11027.02,1,No,17,Yes
+E0052,33,R&D,Human Resources,HR Specialist,13633.41,1,No,10,No
+E0053,29,IT,Other,HR Specialist,11791.66,4,No,31,No
+E0054,23,HR,Medical,Manager,8763.78,3,No,9,Yes
+E0055,59,IT,Marketing,Sales Executive,8482.95,4,No,16,No
+E0056,47,HR,Life Sciences,Engineer,7898.46,1,No,13,No
+E0057,42,IT,Marketing,HR Specialist,2281.41,2,No,16,No
+E0058,34,R&D,Other,Manager,8956.84,2,Yes,5,No
+E0059,40,IT,Other,Engineer,7498.65,4,No,3,No
+E0060,39,HR,Technical Degree,Engineer,4047.94,2,No,0,No
+E0061,23,HR,Life Sciences,Engineer,3547.91,2,Yes,35,No
+E0062,49,Sales,Life Sciences,Manager,7841.57,4,Yes,28,No
+E0063,44,Sales,Other,Engineer,2518.87,2,Yes,36,No
+E0064,25,R&D,Technical Degree,HR Specialist,14825.54,1,No,30,No
+E0065,25,IT,Life Sciences,HR Specialist,6915.57,3,Yes,8,No
+E0066,33,R&D,Life Sciences,Manager,6967.42,2,No,25,No
+E0067,43,HR,Marketing,Sales Executive,2664.64,3,No,15,Yes
+E0068,47,IT,Medical,Manager,7546.74,2,No,39,No
+E0069,56,R&D,Technical Degree,Manager,2204.69,2,No,30,No
+E0070,25,R&D,Human Resources,Sales Executive,2391.22,2,No,26,No
+E0071,33,HR,Other,Manager,6408.29,3,Yes,21,No
+E0072,25,HR,Medical,HR Specialist,12672.6,1,No,9,No
+E0073,52,R&D,Marketing,HR Specialist,7964.67,2,No,22,No
+E0074,28,Finance,Other,Manager,2192.93,1,Yes,4,Yes
+E0075,31,Finance,Other,Sales Executive,4121.86,2,Yes,36,No
+E0076,45,R&D,Marketing,Sales Executive,11619.0,4,Yes,9,No
+E0077,36,IT,Human Resources,HR Specialist,11597.82,1,Yes,12,No
+E0078,41,Finance,Human Resources,Manager,11808.8,1,Yes,32,No
+E0079,28,Sales,Life Sciences,Manager,6571.7,2,No,36,No
+E0080,34,R&D,Human Resources,Manager,6579.6,1,No,5,No
+E0081,49,Sales,Life Sciences,Sales Executive,12426.98,3,No,34,No
+E0082,39,R&D,Medical,Manager,7175.79,1,No,33,No
+E0083,32,Finance,Human Resources,Manager,11453.48,4,Yes,19,Yes
+E0084,57,IT,Technical Degree,HR Specialist,9554.6,3,No,1,No
+E0085,57,IT,Life Sciences,Engineer,6736.44,1,Yes,23,No
+E0086,23,Sales,Technical Degree,Engineer,3040.08,3,No,17,No
+E0087,38,Sales,Other,HR Specialist,3509.63,2,Yes,9,No
+E0088,27,R&D,Marketing,HR Specialist,13564.26,3,No,31,Yes
+E0089,44,Sales,Medical,Manager,7880.43,4,Yes,11,No
+E0090,37,Sales,Life Sciences,HR Specialist,14922.06,3,No,1,No
+E0091,47,Finance,Medical,Sales Executive,6730.66,4,Yes,4,No
+E0092,22,IT,Technical Degree,Sales Executive,5249.41,1,No,31,Yes
+E0093,57,R&D,Human Resources,Manager,6557.01,1,Yes,26,No
+E0094,51,Finance,Human Resources,Sales Executive,6460.12,2,Yes,13,No
+E0095,23,IT,Marketing,Manager,10285.64,4,Yes,10,No
+E0096,41,IT,Technical Degree,Manager,2165.59,3,No,27,Yes
+E0097,26,HR,Medical,Sales Executive,11922.49,1,Yes,31,No
+E0098,52,HR,Other,HR Specialist,7413.39,1,No,18,No
+E0099,29,Sales,Human Resources,HR Specialist,7619.11,4,Yes,12,Yes
+E0100,51,Sales,Other,Manager,8254.5,3,Yes,16,No
+E0101,23,HR,Technical Degree,HR Specialist,7839.76,3,No,28,No
+E0102,34,Finance,Marketing,Sales Executive,8467.12,2,No,18,No
+E0103,25,R&D,Technical Degree,Engineer,6496.76,1,Yes,24,No
+E0104,29,Finance,Life Sciences,Manager,7893.5,3,No,16,No
+E0105,46,IT,Marketing,Engineer,7260.47,4,No,13,No
+E0106,28,IT,Marketing,HR Specialist,8737.16,2,Yes,19,No
+E0107,35,Finance,Technical Degree,HR Specialist,10102.5,3,Yes,36,No
+E0108,50,Sales,Marketing,Manager,5133.53,4,No,30,No
+E0109,42,IT,Other,Sales Executive,8609.68,4,No,5,No
+E0110,58,Finance,Medical,HR Specialist,9730.08,3,Yes,11,No
+E0111,54,HR,Other,Engineer,2220.33,2,No,25,No
+E0112,46,R&D,Marketing,Engineer,8766.42,3,No,26,No
+E0113,35,Finance,Medical,Engineer,5110.81,4,Yes,14,No
+E0114,30,R&D,Life Sciences,Engineer,7259.0,1,No,10,No
+E0115,36,Sales,Technical Degree,Sales Executive,12744.89,2,No,25,Yes
+E0116,28,Finance,Human Resources,Manager,6241.06,2,Yes,6,No
+E0117,23,Sales,Marketing,Sales Executive,8281.82,3,No,37,No
+E0118,52,IT,Technical Degree,Engineer,2321.63,2,No,23,No
+E0119,28,R&D,Human Resources,Manager,6013.76,3,No,26,No
+E0120,32,R&D,Medical,Engineer,10316.37,2,Yes,22,Yes
+E0121,34,IT,Technical Degree,Engineer,6097.1,2,No,2,No
+E0122,34,Finance,Human Resources,HR Specialist,4675.37,3,Yes,17,Yes
+E0123,47,HR,Marketing,Manager,5778.52,3,Yes,11,No
+E0124,29,HR,Marketing,Engineer,14406.92,2,No,3,No
+E0125,35,R&D,Other,HR Specialist,3128.42,3,Yes,17,Yes
+E0126,23,Finance,Technical Degree,HR Specialist,8023.65,1,Yes,20,Yes
+E0127,36,R&D,Technical Degree,HR Specialist,2759.03,3,No,22,Yes
+E0128,45,R&D,Other,Engineer,9002.56,3,Yes,14,No
+E0129,55,Sales,Other,HR Specialist,3898.46,1,No,22,No
+E0130,25,HR,Human Resources,HR Specialist,10243.1,3,Yes,24,No
+E0131,39,Finance,Technical Degree,Sales Executive,5437.17,1,No,13,No
+E0132,46,R&D,Medical,Engineer,10981.9,3,Yes,2,No
+E0133,45,Finance,Medical,Engineer,6512.9,2,Yes,22,No
+E0134,27,Finance,Life Sciences,HR Specialist,2054.19,4,No,14,Yes
+E0135,55,Finance,Other,Sales Executive,5833.63,4,Yes,36,No
+E0136,59,HR,Medical,HR Specialist,3064.63,1,Yes,5,No
+E0137,24,IT,Marketing,Engineer,8435.52,4,No,38,No
+E0138,40,HR,Marketing,Sales Executive,5755.57,4,No,7,No
+E0139,57,Finance,Other,Sales Executive,10319.89,3,Yes,10,No
+E0140,40,HR,Human Resources,HR Specialist,8499.17,4,Yes,22,No
+E0141,49,Sales,Marketing,Sales Executive,2468.58,1,No,16,Yes
+E0142,31,HR,Life Sciences,Manager,6142.24,2,Yes,27,Yes
+E0143,39,Finance,Marketing,Engineer,8357.77,4,No,22,No
+E0144,25,HR,Human Resources,Sales Executive,9438.65,1,No,16,No
+E0145,33,Sales,Life Sciences,Sales Executive,3363.33,2,No,4,Yes
+E0146,48,Sales,Technical Degree,Sales Executive,10449.63,3,No,9,No
+E0147,50,HR,Marketing,Manager,6468.07,2,Yes,17,No
+E0148,33,Finance,Marketing,HR Specialist,4377.98,1,No,22,No
+E0149,32,Finance,Medical,HR Specialist,12469.25,4,No,27,No
+E0150,25,R&D,Technical Degree,Engineer,2892.1,3,No,20,No
+E0151,45,Finance,Other,Engineer,14087.01,3,Yes,11,No
+E0152,47,IT,Other,Engineer,11181.46,3,No,1,No
+E0153,49,Finance,Life Sciences,Sales Executive,8182.68,4,Yes,38,No
+E0154,25,IT,Marketing,Engineer,2145.09,2,No,23,No
+E0155,57,IT,Marketing,Sales Executive,7071.63,3,Yes,8,No
+E0156,36,R&D,Human Resources,Engineer,10395.38,2,Yes,24,Yes
+E0157,43,R&D,Marketing,HR Specialist,13165.87,2,No,8,No
+E0158,45,Finance,Medical,HR Specialist,10030.93,2,No,23,No
+E0159,45,Finance,Other,Engineer,7170.2,3,Yes,14,No
+E0160,58,IT,Marketing,Engineer,7815.67,1,No,22,No
+E0161,26,R&D,Technical Degree,Manager,13352.84,3,Yes,17,Yes
+E0162,27,R&D,Other,Manager,6567.65,3,No,29,No
+E0163,31,Finance,Human Resources,Engineer,2847.05,3,Yes,8,No
+E0164,24,Sales,Human Resources,Engineer,7754.74,3,Yes,27,No
+E0165,59,Sales,Technical Degree,Engineer,14979.97,4,No,25,No
+E0166,55,Sales,Technical Degree,Engineer,6937.05,2,No,10,No
+E0167,27,R&D,Human Resources,Sales Executive,4509.71,1,No,26,No
+E0168,31,Sales,Life Sciences,Manager,2586.69,3,No,11,No
+E0169,37,Sales,Life Sciences,Engineer,4222.6,3,No,28,Yes
+E0170,50,Finance,Medical,HR Specialist,6212.84,2,No,38,No
+E0171,24,Finance,Medical,Manager,9465.62,2,Yes,9,No
+E0172,32,HR,Human Resources,Sales Executive,10652.65,2,No,37,No
+E0173,58,Sales,Medical,HR Specialist,2556.65,1,Yes,35,No
+E0174,25,IT,Life Sciences,Manager,14170.34,2,Yes,20,No
+E0175,25,Sales,Marketing,Engineer,5063.3,1,Yes,5,No
+E0176,45,Sales,Other,Engineer,3937.81,3,No,20,No
+E0177,49,Sales,Other,Sales Executive,8900.78,2,Yes,32,No
+E0178,56,Sales,Life Sciences,Engineer,10808.62,3,No,10,No
+E0179,59,Finance,Medical,Engineer,5994.29,4,No,36,Yes
+E0180,45,Finance,Medical,Engineer,10702.74,4,No,22,No
+E0181,43,Sales,Human Resources,HR Specialist,5825.82,3,No,29,No
+E0182,47,HR,Other,Engineer,13728.23,3,Yes,18,Yes
+E0183,39,HR,Marketing,HR Specialist,13449.03,4,No,4,No
+E0184,24,Sales,Marketing,HR Specialist,2925.53,3,No,14,No
+E0185,32,IT,Human Resources,Engineer,3955.23,4,No,25,Yes
+E0186,30,Finance,Marketing,Manager,11074.76,2,Yes,34,No
+E0187,54,R&D,Technical Degree,Sales Executive,2001.56,1,Yes,33,No
+E0188,47,IT,Life Sciences,HR Specialist,12683.58,2,Yes,15,No
+E0189,57,Finance,Other,Manager,6631.12,2,No,15,No
+E0190,25,R&D,Technical Degree,Engineer,11680.06,2,Yes,34,No
+E0191,23,HR,Medical,Sales Executive,2575.08,3,No,13,Yes
+E0192,29,HR,Life Sciences,Sales Executive,4720.44,2,No,27,No
+E0193,28,Finance,Life Sciences,Manager,2920.47,3,No,33,No
+E0194,57,Finance,Marketing,HR Specialist,4337.71,3,Yes,16,No
+E0195,55,R&D,Medical,HR Specialist,6997.48,1,No,7,No
+E0196,40,HR,Technical Degree,Sales Executive,8390.17,3,No,25,No
+E0197,50,IT,Other,Manager,13909.19,3,Yes,22,No
+E0198,27,HR,Life Sciences,Engineer,10153.26,4,No,7,No
+E0199,31,R&D,Technical Degree,Manager,11184.24,4,Yes,0,Yes
+E0200,26,HR,Marketing,Manager,3067.44,4,Yes,18,No
+E0201,45,IT,Medical,HR Specialist,5728.23,1,No,3,No
+E0202,43,HR,Life Sciences,Manager,14892.51,4,Yes,26,No
+E0203,47,IT,Technical Degree,Engineer,9285.49,3,No,12,No
+E0204,58,Sales,Human Resources,Manager,12241.63,2,Yes,17,No
+E0205,50,IT,Life Sciences,HR Specialist,2422.27,3,No,4,No
+E0206,57,IT,Life Sciences,HR Specialist,3092.99,2,Yes,17,Yes
+E0207,41,Finance,Life Sciences,HR Specialist,3420.03,4,Yes,20,No
+E0208,39,HR,Other,Sales Executive,2198.72,3,Yes,0,No
+E0209,36,HR,Marketing,Manager,13985.73,3,No,20,No
+E0210,36,Finance,Technical Degree,Sales Executive,5297.26,2,Yes,26,Yes
+E0211,45,HR,Medical,Sales Executive,14955.4,1,Yes,31,Yes
+E0212,50,Sales,Technical Degree,Engineer,11595.69,3,Yes,19,No
+E0213,38,R&D,Marketing,Manager,5257.94,3,No,0,No
+E0214,46,HR,Human Resources,Manager,14893.46,1,Yes,19,No
+E0215,37,IT,Technical Degree,Sales Executive,13290.94,1,No,29,No
+E0216,38,Sales,Human Resources,Sales Executive,4144.97,1,No,3,No
+E0217,42,IT,Marketing,Sales Executive,4409.18,4,No,17,No
+E0218,48,IT,Life Sciences,HR Specialist,10842.42,3,No,6,No
+E0219,26,Sales,Technical Degree,Manager,3017.64,4,No,15,Yes
+E0220,43,Sales,Other,Engineer,9598.82,2,Yes,17,Yes
+E0221,54,HR,Other,Manager,2865.84,3,Yes,32,No
+E0222,23,R&D,Life Sciences,Sales Executive,4876.87,4,No,27,No
+E0223,56,IT,Medical,Engineer,14329.72,2,No,35,No
+E0224,40,IT,Life Sciences,HR Specialist,8481.43,1,No,17,No
+E0225,48,Sales,Marketing,Engineer,9458.27,3,No,26,No
+E0226,57,R&D,Technical Degree,HR Specialist,5505.88,4,Yes,22,No
+E0227,23,IT,Other,Manager,7720.8,3,No,33,No
+E0228,39,Sales,Human Resources,Manager,3729.03,3,No,10,No
+E0229,44,HR,Marketing,Sales Executive,8716.01,3,Yes,36,No
+E0230,47,HR,Human Resources,Engineer,2701.43,1,No,5,No
+E0231,32,Finance,Life Sciences,Engineer,2627.24,4,No,21,No
+E0232,22,Finance,Other,Manager,10835.42,4,No,33,Yes
+E0233,57,HR,Marketing,Engineer,2714.76,1,No,32,Yes
+E0234,41,Sales,Life Sciences,Manager,8776.69,1,Yes,30,No
+E0235,52,Sales,Life Sciences,Engineer,5458.34,4,Yes,33,No
+E0236,29,Finance,Medical,HR Specialist,4440.02,3,No,10,No
+E0237,45,R&D,Other,Manager,9453.15,3,Yes,31,Yes
+E0238,41,HR,Human Resources,Sales Executive,5854.02,4,No,9,No
+E0239,36,R&D,Marketing,HR Specialist,7932.97,2,Yes,5,No
+E0240,51,Finance,Medical,HR Specialist,3806.66,2,No,19,No
+E0241,41,R&D,Technical Degree,Sales Executive,3644.31,2,Yes,26,Yes
+E0242,59,Sales,Medical,Engineer,3384.88,3,No,12,No
+E0243,23,IT,Human Resources,HR Specialist,2930.28,3,Yes,4,No
+E0244,27,IT,Life Sciences,Manager,9198.28,2,No,1,No
+E0245,39,R&D,Technical Degree,Manager,11828.07,2,Yes,26,No
+E0246,57,IT,Life Sciences,Sales Executive,12300.77,2,No,38,No
+E0247,35,R&D,Marketing,Manager,14451.98,1,No,1,No
+E0248,47,HR,Medical,Engineer,4189.1,2,Yes,16,Yes
+E0249,55,Finance,Marketing,HR Specialist,3763.05,3,No,22,No
+E0250,51,R&D,Medical,Sales Executive,8109.41,3,No,10,No
+E0251,28,Sales,Marketing,Sales Executive,13193.1,2,Yes,34,Yes
+E0252,51,Finance,Life Sciences,Sales Executive,11971.9,3,No,23,No
+E0253,39,Sales,Human Resources,Engineer,9256.32,3,No,15,No
+E0254,43,IT,Technical Degree,Manager,4038.18,3,Yes,6,No
+E0255,38,HR,Technical Degree,Manager,7086.41,2,No,10,Yes
+E0256,52,IT,Technical Degree,Engineer,11351.5,3,No,35,No
+E0257,38,HR,Life Sciences,Manager,6854.36,1,No,7,Yes
+E0258,52,R&D,Marketing,HR Specialist,2508.55,2,No,26,No
+E0259,34,Finance,Life Sciences,Engineer,9590.49,4,Yes,26,No
+E0260,48,Sales,Marketing,Sales Executive,11361.75,2,Yes,6,Yes
+E0261,41,R&D,Marketing,Engineer,11292.03,3,Yes,2,No
+E0262,38,Sales,Life Sciences,HR Specialist,4143.26,2,Yes,5,No
+E0263,50,HR,Marketing,Sales Executive,6367.89,3,Yes,17,No
+E0264,56,Sales,Human Resources,Sales Executive,7319.24,1,Yes,0,No
+E0265,29,IT,Technical Degree,Manager,7466.26,1,No,2,Yes
+E0266,59,Sales,Marketing,Manager,3484.06,3,No,2,No
+E0267,36,HR,Marketing,Manager,7011.91,4,No,20,No
+E0268,22,Sales,Other,Manager,8586.22,3,No,1,No
+E0269,54,Finance,Technical Degree,HR Specialist,11237.29,4,No,38,No
+E0270,24,HR,Technical Degree,HR Specialist,9402.82,3,Yes,8,No
+E0271,59,Finance,Medical,HR Specialist,7264.1,4,Yes,10,No
+E0272,36,R&D,Other,Manager,14058.77,1,Yes,39,No
+E0273,39,Finance,Technical Degree,Manager,9775.09,4,No,10,No
+E0274,59,R&D,Other,Manager,14672.28,3,Yes,13,No
+E0275,52,HR,Technical Degree,Sales Executive,13275.89,1,Yes,30,Yes
+E0276,41,Sales,Medical,Sales Executive,10757.14,2,No,0,No
+E0277,28,HR,Life Sciences,Engineer,13691.08,3,Yes,20,No
+E0278,58,IT,Other,Manager,14886.12,4,Yes,17,No
+E0279,48,HR,Other,Engineer,4871.4,4,No,18,No
+E0280,29,HR,Medical,Manager,10983.73,1,Yes,7,Yes
+E0281,35,IT,Marketing,Manager,13944.13,4,No,4,No
+E0282,36,IT,Life Sciences,Sales Executive,2226.2,1,Yes,10,No
+E0283,28,HR,Other,HR Specialist,12393.36,4,Yes,18,No
+E0284,54,IT,Life Sciences,HR Specialist,3162.24,2,Yes,0,Yes
+E0285,55,HR,Marketing,Sales Executive,13915.21,1,No,0,No
+E0286,25,HR,Human Resources,Engineer,9956.17,3,Yes,18,No
+E0287,22,IT,Marketing,Sales Executive,4106.9,4,No,11,No
+E0288,35,R&D,Medical,Engineer,2512.33,3,Yes,32,No
+E0289,52,IT,Marketing,Manager,12761.68,4,No,25,Yes
+E0290,59,Sales,Technical Degree,Manager,3813.4,1,No,39,No
+E0291,41,R&D,Marketing,Manager,14214.04,1,No,12,No
+E0292,24,Sales,Marketing,Sales Executive,3181.25,1,No,20,No
+E0293,56,IT,Other,HR Specialist,12893.72,2,No,0,No
+E0294,54,IT,Medical,HR Specialist,7505.92,3,No,11,No
+E0295,36,HR,Technical Degree,HR Specialist,13345.56,4,Yes,31,No
+E0296,24,Sales,Life Sciences,Sales Executive,11991.47,1,Yes,16,No
+E0297,49,IT,Medical,Sales Executive,13087.47,3,Yes,24,No
+E0298,48,IT,Human Resources,Sales Executive,8113.15,2,Yes,34,No
+E0299,54,IT,Technical Degree,Sales Executive,11278.99,4,No,36,No
+E0300,40,Sales,Technical Degree,HR Specialist,6142.68,2,Yes,25,Yes
